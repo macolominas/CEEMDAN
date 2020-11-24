@@ -17,3 +17,9 @@ where the algorithm was first presented:
 Author: Marcelo A. Colominas
 contact: macolominas@conicet.gov.ar
 Last version: 25 feb 2015
+
+WARNING: for this code works it is necessary to include in the same
+directoy the file emd.m developed by Rilling and Flandrin.
+This file is available at %http://perso.ens-lyon.fr/patrick.flandrin/emd.html
+We use the default stopping criterion.
+We use the last modification: 3.2007
